@@ -1,24 +1,8 @@
 # Giphyhakemisto
 Web-projekti animoitujen kuvien hakemistosta
 
-## Tarvittavat kirjastot
-React-app vaatii muutamat kirjastot toimiakseen
-
-``npm install``
-
-``npm install firebase``
-
-``npm install react-router-dom``
-
-``npm install reactjs-popup``
-
-``npm install express``
-
-``npm install mysql``
-
-``npm install cors``
-
-``npm install body-parser``
+## NOTE
+This project requires for you to initialize a [Firebase](https://firebase.google.com/docs/projects/api/workflow_set-up-and-manage-project) project and get an api key from [Giphy](https://support.giphy.com/hc/en-us/articles/360020283431-Request-A-GIPHY-API-Key)
 
 ## Käyttöohjeet
 Ensin asenna tarvittavat kirjastot ylempää. Pelkkä `npm install` pitäisi riittää.
