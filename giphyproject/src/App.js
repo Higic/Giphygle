@@ -237,7 +237,7 @@ function TopNavBar() {
 function GetJson() {
 
 	//API kutsun alustaminen
-	const apiKey = "&api_key=5KaefZrL55pZ7SFProwD3jD3CiKyISm3";
+	const apiKey = "&api_key=[INSERT API KEY HERE]";
 	const endpoint = "https://api.giphy.com/v1/gifs/search?"; 
 	const query = "&q=";
 	
