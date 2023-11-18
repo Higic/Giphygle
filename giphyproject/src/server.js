@@ -7,10 +7,10 @@ const port = 5000
 
 // Connect to the MySQL database
 const connection = mysql.createConnection({
-    host: 'mysql.metropolia.fi',
-    user: 'miikom',
-    password: 'mokillefi',
-    database: 'miikom'
+    host: '',
+    user: '',
+    password: '',
+    database: ''
 });
 
 // enable CORS for all routes
